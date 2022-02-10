@@ -22,11 +22,12 @@ The calculations requested in the assignment instructions are then supplied by t
   - _Calculate Stock Price based on trades recorded in past 15 minutes_: `Stock.price`
 - _Calculate the GBCE All Share Index using the geometric mean of prices for all stocks_: `GBCE.all_share_index`.
 
-Type hints are present in all relevant signatures and basic documentation is included in the code itself.
+Basic documentation is included in the code.
 
 ## Tests
 
-A moderately extensive suite of tests is included in `tests/`. Run them by executing the following command:
+A moderately extensive suite of tests is included in `tests/`. 
+Run them by executing the following commands:
  ````
 $ git clone https://github.com/aadroher/super_simple_stocks
 $ cd super_simple_stocks/
